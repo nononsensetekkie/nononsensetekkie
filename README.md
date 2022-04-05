@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nononsensetekkie
 - 👀 I’m interested in AI/ML and Cloud Development
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’ve completed the Udacity Nanodegrees in Deep Learning and Natural Language Processing
 - 💞️ I’m practicing Python by participating in the [Advent of Code 2021](https://adventofcode.com/2021)
 - 📰 I'm blogging on [No-nonsense Techniques](https://nononsensetechniques.wordpress.com)
 
